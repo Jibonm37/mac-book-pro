@@ -1,0 +1,22 @@
+.btn{
+    border: 1px solid gray;
+    padding: 5px;
+
+}
+.btn:hover{
+    background-color: gray;
+    color: white;
+}
+.br-style{
+    border: 1px solid gray;
+    width: 180px;
+    
+}
+.br-style2{
+    border: 1px solid gray;
+    width: 180px;
+    
+}
+.hr{
+    border: 1px solid rgb(142, 139, 139);
+}
